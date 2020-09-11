@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1000.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.HelloWordController">
+  <tabs>
+    <Tab closable="false" text="Detect faces">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <ToolBar prefHeight="40.0" prefWidth="1000.0">
+                    <items>
+                      <Button fx:id="btnOpen" mnemonicParsing="false" onAction="#chooserFIle" prefHeight="26.0" prefWidth="82.0" text="Open Image" />
+                    </items>
+                  </ToolBar>
+                  <StackPane fx:id="pane" layoutX="13.0" layoutY="141.0" prefHeight="596.0" prefWidth="975.0" style="-fx-border-color: black" AnchorPane.bottomAnchor="33.0" AnchorPane.leftAnchor="13.0" AnchorPane.rightAnchor="12.0" AnchorPane.topAnchor="141.0" />
+                  <Pane fx:id="paneHeader" layoutX="14.0" layoutY="53.0" prefHeight="72.0" prefWidth="972.0" style="-fx-border-color: black" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="53.0">
+                     <children>
+                        <Label id="lblObitan" fx:id="lblObitan" layoutX="14.0" layoutY="41.0" prefHeight="17.0" prefWidth="640.0" />
+                     </children>
+                  </Pane>
+               </children>
+        </AnchorPane>
+      </content>
+    </Tab>
+    <Tab closable="false" text="Enroll from image">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+          <children>
+            <ToolBar prefHeight="40.0" prefWidth="1000.0">
+              <items>
+                <Button fx:id="btnOpenEnroll" mnemonicParsing="false" onAction="#chooserFIleEnroll" prefHeight="26.0" prefWidth="82.0" text="Open Image" />
+              </items>
+            </ToolBar>
+            <StackPane fx:id="paneEnroll" layoutX="13.0" layoutY="118.0" prefHeight="596.0" prefWidth="975.0" style="-fx-border-color: black" AnchorPane.bottomAnchor="56.0" AnchorPane.leftAnchor="13.0" AnchorPane.rightAnchor="12.0" AnchorPane.topAnchor="118.0" />
+          </children>
+        </AnchorPane>
+      </content>
+    </Tab>
+    <Tab closable="false" text="Enroll from camera">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+      </content>
+    </Tab>
+    <Tab closable="false" text="Identity face">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+      </content>
+    </Tab>
+    <Tab closable="false" text="Verify face">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+      </content>
+    </Tab>
+    <Tab closable="false" text="Match multiple faces">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+      </content>
+    </Tab>
+    <Tab closable="false" text="Create token face image">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+      </content>
+    </Tab>
+    <Tab closable="false" text="Generalize faces">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+      </content>
+    </Tab>
+    <Tab closable="false" text="Capture ICAO image">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+      </content>
+    </Tab>
+  </tabs>
+</TabPane>

@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="simple-voices-sample">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/simple-voices-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/simple-fingers-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/iirecord-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/abis-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-media-processing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-gui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/devices-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/samples-utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/mysql-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-biometrics-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/fcrecord-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/detect-facial-features.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/firecord-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/simple-faces-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/fmrecord-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-accelerator-admin-rest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/server-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/simple-irises-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/latent-fingerprint-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-devices.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-licensing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-biometrics-gui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-biometrics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/enrollment-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/antemplate-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/simple-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/sqlite-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/stax-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/stax.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/template-conversion-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/tutorials-utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/xpp3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-media-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-licensing-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-accelerator-admin-rest-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-biometrics-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-biometrics-client-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-biometrics-gui-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-gui-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-core-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-media-processing-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/neurotec-devices-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Bin/Java/sqlite-jdbc.jar!/" />
+    </SOURCES>
+  </library>
+</component>
